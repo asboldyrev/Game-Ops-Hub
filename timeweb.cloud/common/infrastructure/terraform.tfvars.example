@@ -1,0 +1,5 @@
+twc_token            = ""
+ssh_key_path         = ""
+steam_project_name   = "Steam"
+steam_root_key_name  = "Steam root ssh key"
+steam_s3_bucket_name = "steam-s3-bucket"
